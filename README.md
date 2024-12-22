@@ -33,5 +33,5 @@ Effective communication and teamwork
 Email: `dukelester4@gmail.com`
 LinkedIn: `https://www.linkedin.com/in/duke-nyamongo-74a043178/`
 GitHub: `https://github.com/dukelester`
-Portfolio: 
+Portfolio: `https://dukelester.github.io/duke_portifolio/`
 Let’s collaborate to build something amazing together! 🚀
